@@ -1,15 +1,14 @@
 # Bài tập lớn Học máy (CO3117) - Dự đoán khách hàng rời mạng (Telco Customer Churn)
 
 ## 1. Thông tin nhóm
-- **Thành viên 1:** [Họ và tên] - [MSSV]
-- **Thành viên 2:** [Họ và tên] - [MSSV]
+- **Thành viên 1:** Nguyễn Đỗ Đăng Khoa - 2311615
+- **Thành viên 2:** Lưu Chấn Kiến - 2211740
 - **Thành viên 3:** Nguyễn Mạnh Trung - 2313674
 
 ## 2. Cấu trúc thư mục
 - `data/`: Chứa tập dữ liệu gốc `WA_Fn-UseC_-Telco-Customer-Churn.csv`.
 - `src/`: Chứa mã nguồn tiền xử lý và các notebook huấn luyện mô hình Random Forest và Gradient Boosting.
-- `report/`: Báo cáo tổng kết bài tập lớn (PDF).
-- `slides/`: Slide thuyết trình.
+- `doc/`: Báo cáo tổng kết bài tập lớn (PDF) và slide thuyết trình.
 - `requirements.txt`: Các thư viện Python cần thiết.
 
 ## 3. Môi trường thực thi
